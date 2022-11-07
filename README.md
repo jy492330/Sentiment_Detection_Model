@@ -12,5 +12,19 @@ An experimentation to train a custom object detection model to understand how to
 
 
 ## Outcome
-
 Prediction accuracy metrics obtained 82.8% mean average precision, 87% average recall, and less than 4% total loss.
+
+
+## Citations
+	https://github.com/tzutalin/labelimg
+	https://github.com/tensorflow/models
+	https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/configuring_jobs.md
+	https://github.com/nicknochnack/GenerateTFRecord/blob/main/generate_tfrecord.py
+	https://github.com/nicknochnack/TFODCourse
+	https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md
+	https://github.com/tensorflow/models/tree/master/research/object_detection
+	https://teachablemachine.withgoogle.com/train/image
+	https://www.tensorflow.org/install/source_windows
+	https://towardsdatascience.com/review-ssd-single-shot-detector-object-detection-851a94607d11
+
+
